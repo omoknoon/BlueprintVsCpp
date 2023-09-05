@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TopDownShooter",
+			"Path": "C:\\Users\\pearl_necklace\\Documents\\Unreal Projects\\TopDownShooter\\Source\\TopDownShooter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TopDownShooterEditor",
+			"Path": "C:\\Users\\pearl_necklace\\Documents\\Unreal Projects\\TopDownShooter\\Source\\TopDownShooterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

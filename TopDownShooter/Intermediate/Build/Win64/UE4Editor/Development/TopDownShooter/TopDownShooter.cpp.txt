@@ -1,0 +1,2 @@
+C:\Users\pearl_necklace\Documents\Unreal Projects\TopDownShooter\Intermediate\Build\Win64\UE4Editor\Development\TopDownShooter\Definitions.TopDownShooter.h
+C:\Users\pearl_necklace\Documents\Unreal Projects\TopDownShooter\Source\TopDownShooter\TopDownShooter.h

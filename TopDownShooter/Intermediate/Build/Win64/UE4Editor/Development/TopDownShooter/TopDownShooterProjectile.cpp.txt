@@ -1,0 +1,7 @@
+C:\Users\pearl_necklace\Documents\Unreal Projects\TopDownShooter\Intermediate\Build\Win64\UE4Editor\Development\TopDownShooter\Definitions.TopDownShooter.h
+C:\Users\pearl_necklace\Documents\Unreal Projects\TopDownShooter\Source\TopDownShooter\TopDownShooterProjectile.h
+C:\Users\pearl_necklace\Documents\Unreal Projects\TopDownShooter\Intermediate\Build\Win64\UE4Editor\Inc\TopDownShooter\TopDownShooterProjectile.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h

@@ -1,0 +1,11 @@
+﻿  Building TopDownShooterEditor...
+  Using Visual Studio 2019 14.36.32537 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 12 processes...
+    [1/4] TopDownShooterProjectile.cpp
+    [2/4] UE4Editor-TopDownShooter-0005.lib
+       C:\Users\pearl_necklace\Documents\Unreal Projects\TopDownShooter\Intermediate\Build\Win64\UE4Editor\Development\TopDownShooter\UE4Editor-TopDownShooter-0005.lib 라이브러리 및 C:\Users\pearl_necklace\Documents\Unreal Projects\TopDownShooter\Intermediate\Build\Win64\UE4Editor\Development\TopDownShooter\UE4Editor-TopDownShooter-0005.exp 개체를 생성하고 있습니다.
+    [3/4] UE4Editor-TopDownShooter-0005.dll
+       C:\Users\pearl_necklace\Documents\Unreal Projects\TopDownShooter\Intermediate\Build\Win64\UE4Editor\Development\TopDownShooter\UE4Editor-TopDownShooter-0005.suppressed.lib 라이브러리 및 C:\Users\pearl_necklace\Documents\Unreal Projects\TopDownShooter\Intermediate\Build\Win64\UE4Editor\Development\TopDownShooter\UE4Editor-TopDownShooter-0005.suppressed.exp 개체를 생성하고 있습니다.
+    [4/4] TopDownShooterEditor.target
+  Total time in Parallel executor: 4.59 seconds
+  Total execution time: 4.95 seconds

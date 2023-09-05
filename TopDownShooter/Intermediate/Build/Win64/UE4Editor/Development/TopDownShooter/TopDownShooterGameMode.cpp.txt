@@ -1,0 +1,13 @@
+C:\Users\pearl_necklace\Documents\Unreal Projects\TopDownShooter\Intermediate\Build\Win64\UE4Editor\Development\TopDownShooter\Definitions.TopDownShooter.h
+C:\Users\pearl_necklace\Documents\Unreal Projects\TopDownShooter\Source\TopDownShooter\TopDownShooterGameMode.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\pearl_necklace\Documents\Unreal Projects\TopDownShooter\Intermediate\Build\Win64\UE4Editor\Inc\TopDownShooter\TopDownShooterGameMode.generated.h
+C:\Users\pearl_necklace\Documents\Unreal Projects\TopDownShooter\Source\TopDownShooter\TopDownShooterPawn.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\pearl_necklace\Documents\Unreal Projects\TopDownShooter\Intermediate\Build\Win64\UE4Editor\Inc\TopDownShooter\TopDownShooterPawn.generated.h
